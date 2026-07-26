@@ -14,7 +14,7 @@ Give feedback kindly and focus on the work. Accept feedback and use it to improv
 
 ### Working with supervisors
 
-I learned that I should prepare for meetings, take notes, ask questions, give updates, and take initiative. Suggestions for interns on working with supervisors.
+I learned that I should prepare for meetings, take notes, ask questions, give updates, and take initiative.
 
 ---
 
