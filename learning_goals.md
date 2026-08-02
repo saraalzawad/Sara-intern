@@ -1,0 +1,3 @@
+# Learning Goals
+
+I look forward to getting real work experience and improving my technical skills by working on real projects. In this internship, I am going to develop my skills in Python, data analysis, SQL, machine learning, and Git/GitHub and get to know how professionals work in software engineering and projects management. I am sure that my contribution to the team will be in my ability to learn fast, to finish my tasks on time and always to be ready to learn new technologies. I would like to develop my skills in terms of working with big codebases and understanding the code developed by others. The success for me in this internship will mean making real contributions to the project and improving my technical skills.
