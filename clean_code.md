@@ -141,3 +141,46 @@ Duplicated code makes the program longer and harder to maintain. If I need to ch
 
 ## How did refactoring improve maintainability?
 By moving the repeated code into one function, the code became shorter, cleaner, and easier to update. If I want to change the message, I only need to change it in one place.
+
+---------------
+
+# Refactoring Code for Simplicity
+
+## Common Refactoring Techniques
+- Use clear variable names.
+- Break long functions into smaller ones.
+- Remove repeated code.
+- Keep the code simple and easy to understand.
+
+## Example
+
+### Before
+
+```python
+if score >= 50:
+    print("Pass")
+else:
+    print("Fail")
+```
+
+### After
+
+```python
+def check_result(score):
+    if score >= 50:
+        return "Pass"
+    return "Fail"
+
+print(check_result(75))
+```
+
+## Reflection
+
+### What made the original code complex?
+The original code worked, but it was not easy to reuse. If I wanted to check another score, I would need to write the same code again.
+
+### How did refactoring improve it?
+After refactoring, I put the code into a function. This made the code cleaner, easier to read, and easier to use again in other parts of the program.
+
+-------------
+
