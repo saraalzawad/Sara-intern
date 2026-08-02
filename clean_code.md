@@ -77,4 +77,36 @@ second_number = 10
 total = first_number + second_number
 print(total)
 ```
+-------------------
 
+# Writing Small, Focused Functions
+
+## Why is breaking down functions beneficial?
+Breaking a large function into smaller functions makes the code easier to read and understand. It also makes it easier to find and fix problems.
+
+## Example
+
+### Before
+
+```python
+def calculate_total(price, tax):
+    total = price + tax
+    print(total)
+    print("Thank you for your purchase!")
+```
+
+### After
+
+```python
+def calculate_total(price, tax):
+    return price + tax
+
+def print_total(total):
+    print(total)
+
+def thank_customer():
+    print("Thank you for your purchase!")
+```
+
+## How did refactoring improve the structure of the code?
+After splitting the function into smaller parts, each function has one job. The code is more organized, easier to test, and easier to change later if needed.
