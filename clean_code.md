@@ -34,3 +34,15 @@ print(total)
 - Variable names are clear.
 - The code is easier to read.
 - It is easier to understand and maintain.
+
+----------------
+# Code Formatting and Style Guides
+
+## Why is code formatting important?
+Code formatting makes code easier to read and understand. It helps developers follow the same style, which makes it easier to work together and maintain the code in the future.
+
+## What issues did the linter detect?
+The linter can find small problems like missing spaces, incorrect indentation, or unused variables. In my practice, I did not have any major issues, but I learned that a linter helps find mistakes before the code is shared.
+
+## Did formatting make the code easier to read?
+Yes. After formatting the code, it looked cleaner and more organized. It was easier to understand what each part of the code was doing, and I think it would also be easier for other developers to read.
