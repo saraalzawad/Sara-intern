@@ -1,0 +1,3 @@
+# Company Reflection
+
+Focus Bear was created by people who suffer from ADHD and did not find the perfect app for them, so this app was created based on the experience they faced, and the main goal of this app is to build a routine and reduce distractions ADHD people and those with ASD have. Also, it can help anyone struggle with focusing while working. I think this app is important because it is easy to use, and building a routine day by day will maybe reduce the problem. For my work aligns, I am happy to be part of this time because I really think this app is helping people and has more potential to grow more in the future.
