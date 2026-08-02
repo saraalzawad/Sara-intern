@@ -47,7 +47,6 @@ The linter can find small problems like missing spaces, incorrect indentation, o
 ## Did formatting make the code easier to read?
 Yes. After formatting the code, it looked cleaner and more organized. It was easier to understand what each part of the code was doing, and I think it would also be easier for other developers to read.
 ------------------
-
 # Naming Variables & Functions
 
 ## What makes a good variable or function name?
