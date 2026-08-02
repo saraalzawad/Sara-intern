@@ -110,3 +110,34 @@ def thank_customer():
 
 ## How did refactoring improve the structure of the code?
 After splitting the function into smaller parts, each function has one job. The code is more organized, easier to test, and easier to change later if needed.
+
+-------
+# Avoiding Code Duplication
+
+## What is the DRY principle?
+DRY stands for "Don't Repeat Yourself". It means we should avoid writing the same code more than once. Instead, we can reuse code by creating a function.
+
+## Before
+
+```python
+print("Welcome")
+print("Welcome")
+print("Welcome")
+```
+
+## After
+
+```python
+def welcome():
+    print("Welcome")
+
+welcome()
+welcome()
+welcome()
+```
+
+## What were the issues with duplicated code?
+Duplicated code makes the program longer and harder to maintain. If I need to change something, I have to update it in many places, which can lead to mistakes.
+
+## How did refactoring improve maintainability?
+By moving the repeated code into one function, the code became shorter, cleaner, and easier to update. If I want to change the message, I only need to change it in one place.
