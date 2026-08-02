@@ -10,4 +10,4 @@ Branches make code reviews easier because each change is isolated. Team members 
 
 ## What happens if two people edit the same file on different branches?
 
-If two people modify the same part of a file on different branches, Git may create a merge conflict when the branches are merged. The conflict must be resolved manually by deciding which changes should be kept.
+If two people modify the same part of a file on different branches, Git may create a merge conflict when the branches are merged. The conflict must be resolved manually by deciding which changes should be kept.This is a staging test.
