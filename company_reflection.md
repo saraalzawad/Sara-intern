@@ -1,3 +1,21 @@
 # Company Reflection
 
-Focus Bear was created by people who suffer from ADHD and did not find the perfect app for them, so this app was created based on the experience they faced, and the main goal of this app is to build a routine and reduce distractions ADHD people and those with ASD have. Also, it can help anyone struggle with focusing while working. I think this app is important because it is easy to use, and building a routine day by day will maybe reduce the problem. For my work aligns, I am happy to be part of this time because I really think this app is helping people and has more potential to grow more in the future.
+## Why do you think Focus Bear was created?
+
+I think Focus Bear was created because the founders experienced problems with focus and productivity themselves. They wanted to build a tool that helps people create good habits, reduce distractions, and stay on track with their daily tasks.
+
+## What problem is Focus Bear solving?
+
+Focus Bear helps people who struggle with distractions, building routines, and staying focused. It is especially useful for people with ADHD or ASD, but I think it can also help students and workers who want to improve their productivity.
+
+## Why do you think this mission is important?
+
+I think this mission is important because many people find it difficult to stay focused every day. Having a simple tool that builds healthy routines can improve both productivity and mental well-being.
+
+## How does Focus Bear's work align with your personal values or interests?
+
+As an Artificial Intelligence student who is interested in data analytics, I like working on projects that solve real problems. I enjoy creating technology that helps people, so I think Focus Bear's mission matches my interests.
+
+## Do you personally relate to any of the challenges that Focus Bear aims to solve?
+
+Yes. As a university student, I sometimes get distracted while studying or working on assignments. Having a clear routine and reducing distractions helps me stay focused and finish my work. I also know people who struggle with staying organized, so I can see how Focus Bear could help them.
