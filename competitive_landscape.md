@@ -27,6 +27,7 @@ I would choose Focus Bear because it has everything I need in one place. It is s
 I like Forest because it lets friends compare their focus sessions. I think this feature would make Focus Bear more fun and motivating.
 
 ## One improvement for Focus Bear
+One feature that Focus Bear does not currently have is Freedom's scheduled recurring blocking sessions across multiple devices. Freedom allows users to create recurring block schedules that automatically activate at set times on all connected devices. This helps users stay consistent without having to start a focus session manually. I think adding a similar automatic scheduling feature would make Focus Bear even more convenient for users.
 
 I think Focus Bear could add more progress reports and more ways to customize routines. This would help users see their improvement over time.
 
